@@ -1,1 +1,1 @@
-# clustering
+# Clustering algorithm
